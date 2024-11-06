@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35410.144 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatorisCityApp9", "CatorisCityApp9\CatorisCityApp9.csproj", "{9BE3FD17-4257-40D9-9B83-E71CD9559DD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityAppServices", "CityAppServices\CityAppServices.csproj", "{72D488D9-3522-47BB-9274-2E522EB254DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BE3FD17-4257-40D9-9B83-E71CD9559DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE3FD17-4257-40D9-9B83-E71CD9559DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE3FD17-4257-40D9-9B83-E71CD9559DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE3FD17-4257-40D9-9B83-E71CD9559DD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72D488D9-3522-47BB-9274-2E522EB254DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D488D9-3522-47BB-9274-2E522EB254DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D488D9-3522-47BB-9274-2E522EB254DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D488D9-3522-47BB-9274-2E522EB254DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
